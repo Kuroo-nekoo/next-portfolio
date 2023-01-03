@@ -14,7 +14,7 @@ const Content = () => {
             I'm <span className='bg-rose-300 px-6'>Hùng</span>
           </div>
         </div>
-        <p>A Software Engineer who mainly use Javascript to build things</p>
+        <p>A Software Engdđineer who mainly use Javascript to build things</p>
         <div>
           {/* <button className='box-shadow-button bg-emerald-400'>Project</button>
         <button className='box-shadow-button bg-rose-300'>About</button> */}
