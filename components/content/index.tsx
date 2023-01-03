@@ -20,8 +20,9 @@ const Content = () => {
         <button className='box-shadow-button bg-rose-300'>About</button> */}
         </div>
       </main>
+      <About></About>
       <Technologies></Technologies>
-      {/* <About></About> */}
+      <Project></Project>
     </div>
   );
 };

@@ -12,6 +12,10 @@
     box-shadow: #fda4af 8px 8px;
     @apply mr-3 mt-3 px-4 py-2;
   }
+
+  .text-gradient {
+    @apply bg-gradient-to-r from-emerald-400 to-rose-300 bg-clip-text text-transparent inline;
+  }
 }
 
 * {

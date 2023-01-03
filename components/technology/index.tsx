@@ -5,9 +5,11 @@ const Technologies = () => {
   const cardShadowColor = ['box-shadow-card-emerald', 'box-shadow-card-rose'];
   return (
     <div className='px-56 h-screen pt-36'>
-      <div className='text-6xl font-semibold'>Technologies</div>
-      I've worked with a range technologies in the web development world. From
-      Front-end to Back-end and UI/UX
+      <div className='text-6xl font-semibold text-gradient'>Technologies</div>
+      <div>
+        I've worked with a range technologies in the web development world. From
+        Front-end to Back-end and UI/UX
+      </div>
       <div className='flex space-x-6 px-16'>
         <TechCard
           title='Front-end'
